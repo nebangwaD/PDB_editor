@@ -1,5 +1,11 @@
-# automatic editing of Ov103;OvRAL2 modeled structure
+# New python script for automatic editing of pdf files.
 
-The aim is to include unique numbering to resove overlaping residue numbering found in the previous file.
-The tool pdb-tools will be used to achive this using the following command
-– pdb_reres -1 input.pdb > output.pdb
+Scipt 1: rename_pdp.py is aimed at re-numbering both chain ID, and residue IDs of a pdb filre.
+
+###Benefits
+Key benefit include to resolve overlaping chain and residue numbering found in pdb files.
+
+###Usage
+1. Run the shell command "python rename_pdb.py" in same direcotry as input pdb file 
+2. Tool then prompts for user input information including "input_file_name:", "chain_id:",and " start_residue_number:"
+3. Final output saved as "edited_"input_file_name".pdb"
