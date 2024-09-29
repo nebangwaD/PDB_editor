@@ -1,6 +1,6 @@
 ## New python script for automatic editing of pdb files.
 
-Scipt 1: rename_pdp.py is aimed at re-numbering both chain ID, and residue IDs of a pdb filre.
+Scipt 1: 'rename_pdb.py' is aimed at re-numbering both chain ID, and residue IDs of a pdb filre.
 
 ###Benefits
 Key benefit include to resolve overlaping chain and residue numbering found in pdb files.
