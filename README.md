@@ -1,4 +1,4 @@
-# New python script for automatic editing of pdf files.
+## New python script for automatic editing of pdb files.
 
 Scipt 1: rename_pdp.py is aimed at re-numbering both chain ID, and residue IDs of a pdb filre.
 
