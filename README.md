@@ -1,4 +1,4 @@
-## New python script for automatic editing of pdb files.
+##  Python script for automatic PDB file editing – rename chain ID, re-number residues
 
 Scipt 1: 'rename_pdb.py' is aimed at renaming and renumbering both chain ID and residue IDs of an input pdb file.
 
