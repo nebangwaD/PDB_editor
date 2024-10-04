@@ -2,7 +2,7 @@
 
 Scipt 1: 'rename_pdb.py' is aimed at renaming and renumbering both chain ID and residue IDs of an input pdb file.
 
-### Benefits
+### Benefit
 Key benefit include to resolve overlaping chain and residue numbering found in pdb files.
 
 ### Usage
