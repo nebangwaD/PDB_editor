@@ -7,5 +7,5 @@ Key benefit include to resolve overlaping chain and residue numbering found in p
 
 ### Usage
 1. Run the shell command "python rename_pdb.py" in same direcotry as input pdb file 
-2. Tool then prompts for user input inf including "input_file_name:", "chain_id:",and " start_residue_number:"
+2. Tool then prompts for user input including "input_file_name:", "chain_id:",and " start_residue_number:"
 3. Final output saved as "edited_"input_file_name".pdb"
